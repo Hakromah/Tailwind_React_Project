@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+<!-- Install the following packages to run the website:
+
+1- npm install -D tailwindcss postcss autoprefixer
+2- npx tailwindcss init -p
+3- <script src="https://kit.fontawesome.com/2282204c47.js" crossorigin="anonymous"></script> paste this in the index.html
+4- npm i react-typed
+5- npm i react-icons
+
+  -->
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
